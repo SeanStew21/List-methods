@@ -38,4 +38,4 @@ while choice != 0:
         scores.sort(reverse=True)
     else: #some unknown choice
         print('Sorry but', choice, 'isn\'t a valid choice.')
-    print('Scores: 'scores)
+    print('Scores: ', scores)
